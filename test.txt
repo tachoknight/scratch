@@ -13,3 +13,5 @@ this is the first commit after merging squashing the feature branch
 this a feature change that will not be squashed
 this is the second feature change that will not be squashed
 
+
+this is going to be another squash commit
