@@ -7,3 +7,5 @@ this is the fifth commit and first attempt at squash
 
 this is the first commit on feature branch
 this is the second commit on the feature branch
+
+this is the first commit after merging squashing the feature branch
