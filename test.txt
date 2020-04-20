@@ -16,3 +16,7 @@ this is the second feature change that will not be squashed
 
 this is going to be another squash commit
 another squashed commit
+
+and we're going to try it again
+and again
+
