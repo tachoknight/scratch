@@ -4,3 +4,5 @@ this is the third commit
 
 this is the fourth commit after creating a remote
 this is the fifth commit and first attempt at squash
+
+this is the first commit on feature branch
